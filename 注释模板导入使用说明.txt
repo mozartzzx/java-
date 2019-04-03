@@ -1,0 +1,7 @@
+1、打开eclipse，点击菜单栏windows，选择Preferences
+2、依次选择java->code style->code templates
+3、点击import，选择注释模板文件
+4、并勾选Automatically add commonts for new methods and types。
+
+5、使用时光标放在方法名、类名等名字上，按alt+shift+j
+6、添加注释内容
